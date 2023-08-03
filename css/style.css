@@ -38,6 +38,11 @@ body{
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+    transform: .3s;
+}
+
+.header.sticky{
+    background-color: var(--bg-color);
 }
 
 .logo{
